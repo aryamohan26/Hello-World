@@ -1,2 +1,2 @@
-# Hello-World
+# KTR
 My first repository
